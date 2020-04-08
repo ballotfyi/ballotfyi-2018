@@ -1,8 +1,12 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/78dce639-08f4-4601-9d43-2d6dc1d96b19/deploy-status)](https://app.netlify.com/sites/ballotfyi/deploys)
+# ballot.fyi (2018)
+Visit the archived site: (2018.ballot.fyi)[2018.ballot.fyi]
 
-## ballot.fyi '18
+Note to self: This is not the repo that Netlify uses to build the site. That repo is `ballotfyi/ballotfyi` under branch `2018`.
+
+## Code
+The site was developed with Create React App and deployed via Netlify. Many of the dependencies are now outdated. I would not recommend forking or cloning.
+
 
 ### Authors
-
-Jimmy Chion
-Yvonne Leow
+Code + Content: Jimmy Chion
+Content: Yvonne Leow
