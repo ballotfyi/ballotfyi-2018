@@ -1,5 +1,5 @@
 # ballot.fyi (2018)
-Visit the archived site: [2018.ballot.fyi](2018.ballot.fyi)
+Visit the archived site: [2018.ballot.fyi](https://2018.ballot.fyi)
 
 Note to self: This is not the repo that Netlify uses to build the site. That repo is `ballotfyi/ballotfyi` under branch `2018`.
 
