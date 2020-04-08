@@ -9,4 +9,5 @@ The site was developed with Create React App and deployed via Netlify. Many of t
 
 ### Authors
 Code + Content: Jimmy Chion
+
 Content: Yvonne Leow
